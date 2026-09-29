@@ -227,4 +227,4 @@ The dashboard includes 5 pre-configured demo queries accessible from the sidebar
 
 ## 13. License
 
-Developed for academic demonstration purposes (College 3rd-Year CS Mini-Project).
+Developed for academic demonstration purposes.
